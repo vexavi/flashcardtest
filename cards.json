@@ -1,0 +1,25 @@
+{
+  "decks": [
+    {
+      "id": "jhs1-vocab",
+      "name": "JHS 1 Vocabulary",
+      "cards": [
+        {
+          "id": "card-001",
+          "front": "りんご",
+          "back": "apple"
+        },
+        {
+          "id": "card-002",
+          "front": "もも",
+          "back": "peach"
+        },
+        {
+          "id": "card-003",
+          "front": "いちご",
+          "back": "strawberry"
+        }
+      ]
+    }
+  ]
+}
